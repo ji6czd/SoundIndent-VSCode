@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackupInfo>
+  <MachineName>SENTARO-WIN</MachineName>
+  <Application>JAWS</Application>
+  <ApplicationVersion>2021.174</ApplicationVersion>
+  <BackupDate>2021年7月20日 5:23</BackupDate>
+  <BackupType>Partial</BackupType>
+  <Comments></Comments>
+  <SupportedLanguages>enu,jpn</SupportedLanguages>
+</BackupInfo>
