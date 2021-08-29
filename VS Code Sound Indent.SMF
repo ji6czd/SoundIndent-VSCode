@@ -1,5 +1,5 @@
 [Information]
-Title=Sound Indent (Tab is Two Spaces)
+Title=VS Code Sound Indent
 Description=JAWS will announce tab stops as you cursor up and down through lines of code using the two-space Tab setting in your code editor.  The indentation is announced by the scale in C major.
 Flush left is announced as Left Edge. Note: You may need to adju
 [Attribute Behavior Table]
@@ -23,14 +23,14 @@ JustifiedCenter=1|MessageVoice|||
 JustifiedRight=1|MessageVoice|||
 JustifiedLeftAndRight=1|MessageVoice|||
 default=1|MessageVoice|||
-0=2|MessageVoice:left edge|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano1-C.wav||
-2=2|MessageVoice:tab 1|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano2-D.wav||
-4=2|MessageVoice:tab 2|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano3-E.wav||
-6=2|MessageVoice:tab 3|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano4-F.wav||
-8=2|MessageVoice:tab 4|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano5-G.wav||
-10=2|MessageVoice:tab 5|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano6-A.wav||
-12=2|MessageVoice:tab 6|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano7-B.wav||
-14=2|MessageVoice:tab 7|C:\ProgramData\Freedom Scientific\JAWS\2021\Settings\jpn\SOUNDS\Piano8-C.wav||
+0=2|MessageVoice:left edge|Piano1-C.wav||
+2=2|MessageVoice:tab 1|Piano2-D.wav||
+4=2|MessageVoice:tab 2|Piano3-E.wav||
+6=2|MessageVoice:tab 3|Piano4-F.wav||
+8=2|MessageVoice:tab 4|Piano5-G.wav||
+10=2|MessageVoice:tab 5|Piano6-A.wav||
+12=2|MessageVoice:tab 6|Piano7-B.wav||
+14=2|MessageVoice:tab 7|Piano8-C.wav||
 16=1|MessageVoice:tab 8|||
 18=1|MessageVoice:tab 9|||
 20=1|MessageVoice:tab 10|||
